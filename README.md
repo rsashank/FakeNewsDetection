@@ -6,10 +6,10 @@ Sourced from Kaggle: [Fake and Real News Dataset](https://www.kaggle.com/clmentb
 
 ### Metrics Achieved
 
-- Accuracy: 97.56%
-- Precision: 97.63%
-- Recall: 97.27%
-- F1-score: 97.45%
+- Accuracy: 99.54%
+- Precision: 99.55%
+- Recall: 99.48%
+- F1-score: 99.52%
 
 ### Model
 [PassiveAggresiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html) (linear classification algorithm) with sklearn 
